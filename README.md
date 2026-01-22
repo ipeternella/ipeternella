@@ -1,7 +1,5 @@
-# 👋 Hello there, stay awhile and check the code!  🦊
+# Hello there 👋!
 
-Hi there, my name's Igor! Nice to meet you!
- 
-Programming and learning new technologies are my hobbies, so I'm usually around here writing some code! Also, I really like to share what I learn by creating open-source projects so I hope some of my repositories will be useful to you!
- 
-Thanks for visting my profile!
+I'm a software engineer who enjoys to solve problems. I'm enthusiastic about Python, algorithms, distributed systems and learning new technologies.
+
+Thanks for visting my profile.
